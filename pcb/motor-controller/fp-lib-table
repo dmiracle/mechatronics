@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name motor-controller)(type KiCad)(uri ${KIPRJMOD}/motor-controller.pretty)(options "")(descr ""))
+)
